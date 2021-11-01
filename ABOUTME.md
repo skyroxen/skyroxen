@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skyroxen
+- 👋 Hi, I’m @skyroxen, I'm new to Git and GitHub
 - 👀 I’m interested in trying out Git and GitHub
 - 🌱 I’m currently learning Git, GitHub and React
 - 💞️ I’m looking to collaborate on future projects when I get employed my first job
